@@ -1,0 +1,968 @@
+{
+    "entries": [
+        {
+            "id": "countryCode3.ATC",
+            "text": "איי אשמור וקרטייה"
+        },
+        {
+            "id": "countryCode3.AFG",
+            "text": "אפגניסטן"
+        },
+        {
+            "id": "countryCode3.ALD",
+            "text": "אולנד"
+        },
+        {
+            "id": "countryCode3.ALB",
+            "text": "אלבניה"
+        },
+        {
+            "id": "countryCode3.DZA",
+            "text": "אלג'יריה"
+        },
+        {
+            "id": "countryCode3.ASM",
+            "text": "סמואה האמריקנית"
+        },
+        {
+            "id": "countryCode3.AND",
+            "text": "אנדורה"
+        },
+        {
+            "id": "countryCode3.AGO",
+            "text": "אנגולה"
+        },
+        {
+            "id": "countryCode3.AIA",
+            "text": "אנגווילה"
+        },
+        {
+            "id": "countryCode3.ATA",
+            "text": "אנטארקטיקה"
+        },
+        {
+            "id": "countryCode3.ATG",
+            "text": "אנטיגואה וברבודה"
+        },
+        {
+            "id": "countryCode3.ARG",
+            "text": "ארגנטינה"
+        },
+        {
+            "id": "countryCode3.ARM",
+            "text": "ארמניה"
+        },
+        {
+            "id": "countryCode3.ABW",
+            "text": "ארובה"
+        },
+        {
+            "id": "countryCode3.AUS",
+            "text": "אוסטרליה"
+        },
+        {
+            "id": "countryCode3.AUT",
+            "text": "אוסטריה"
+        },
+        {
+            "id": "countryCode3.AZE",
+            "text": "אזרבייג'ן"
+        },
+        {
+            "id": "countryCode3.BHS",
+            "text": "בהאמה"
+        },
+        {
+            "id": "countryCode3.BHR",
+            "text": "בחריין"
+        },
+        {
+            "id": "countryCode3.BGD",
+            "text": "בנגלדש"
+        },
+        {
+            "id": "countryCode3.BRB",
+            "text": "ברבדוס"
+        },
+        {
+            "id": "countryCode3.BLR",
+            "text": "בלארוס"
+        },
+        {
+            "id": "countryCode3.BEL",
+            "text": "בלגיה"
+        },
+        {
+            "id": "countryCode3.BLZ",
+            "text": "בליז"
+        },
+        {
+            "id": "countryCode3.BEN",
+            "text": "בנין"
+        },
+        {
+            "id": "countryCode3.BMU",
+            "text": "ברמודה"
+        },
+        {
+            "id": "countryCode3.BTN",
+            "text": "בהוטן"
+        },
+        {
+            "id": "countryCode3.BOL",
+            "text": "בוליביה"
+        },
+        {
+            "id": "countryCode3.BIH",
+            "text": "בוסניה-הרצגובינה"
+        },
+        {
+            "id": "countryCode3.BWA",
+            "text": "בוצואנה"
+        },
+        {
+            "id": "countryCode3.BRA",
+            "text": "ברזיל"
+        },
+        {
+            "id": "countryCode3.VGB",
+            "text": "איי בתולה בריטיים"
+        },
+        {
+            "id": "countryCode3.BRN",
+            "text": "ברוניי"
+        },
+        {
+            "id": "countryCode3.BGR",
+            "text": "בולגריה"
+        },
+        {
+            "id": "countryCode3.BFA",
+            "text": "בורקינה פאסו"
+        },
+        {
+            "id": "countryCode3.BDI",
+            "text": "בורונדי"
+        },
+        {
+            "id": "countryCode3.CAF",
+            "text": "הרפובליקה המרכז - אפריקאית"
+        },
+        {
+            "id": "countryCode3.CPV",
+            "text": "קאבו ורדה"
+        },
+        {
+            "id": "countryCode3.KHM",
+            "text": "קמבודיה"
+        },
+        {
+            "id": "countryCode3.CMR",
+            "text": "קמרון"
+        },
+        {
+            "id": "countryCode3.CAN",
+            "text": "קנדה"
+        },
+        {
+            "id": "countryCode3.CYM",
+            "text": "איי קיימן"
+        },
+        {
+            "id": "countryCode3.TCD",
+            "text": "צ'אד"
+        },
+        {
+            "id": "countryCode3.CHL",
+            "text": "צ'ילה"
+        },
+        {
+            "id": "countryCode3.CHN",
+            "text": "חרסינה"
+        },
+        {
+            "id": "countryCode3.COL",
+            "text": "קולומביה"
+        },
+        {
+            "id": "countryCode3.COM",
+            "text": "קומורוס"
+        },
+        {
+            "id": "countryCode3.COG",
+            "text": "קונגו"
+        },
+        {
+            "id": "countryCode3.COK",
+            "text": "איי קוק"
+        },
+        {
+            "id": "countryCode3.CRI",
+            "text": "קוסטה ריקה"
+        },
+        {
+            "id": "countryCode3.CIV",
+            "text": "חוף שנהב"
+        },
+        {
+            "id": "countryCode3.HRV",
+            "text": "קרואטיה"
+        },
+        {
+            "id": "countryCode3.CUB",
+            "text": "קובה"
+        },
+        {
+            "id": "countryCode3.CUW",
+            "text": "קוראסאו"
+        },
+        {
+            "id": "countryCode3.CYP",
+            "text": "קפריסין"
+        },
+        {
+            "id": "countryCode3.CZE",
+            "text": "צ'כיה"
+        },
+        {
+            "id": "countryCode3.COD",
+            "text": "ר\"ד קונגו"
+        },
+        {
+            "id": "countryCode3.DNK",
+            "text": "דנמרק"
+        },
+        {
+            "id": "countryCode3.DJI",
+            "text": "ג'יבוטי"
+        },
+        {
+            "id": "countryCode3.DMA",
+            "text": "דומיניקה"
+        },
+        {
+            "id": "countryCode3.DOM",
+            "text": "הרפובליקה הדומיניקנית"
+        },
+        {
+            "id": "countryCode3.ECU",
+            "text": "אקוודור"
+        },
+        {
+            "id": "countryCode3.EGY",
+            "text": "מצרים"
+        },
+        {
+            "id": "countryCode3.SLV",
+            "text": "אל סלבדור"
+        },
+        {
+            "id": "countryCode3.GNQ",
+            "text": "גיניאה המשוונית"
+        },
+        {
+            "id": "countryCode3.ERI",
+            "text": "אריתריאה"
+        },
+        {
+            "id": "countryCode3.EST",
+            "text": "אסטוניה"
+        },
+        {
+            "id": "countryCode3.SWZ",
+            "text": "Eswatini"
+        },
+        {
+            "id": "countryCode3.ETH",
+            "text": "אתיופיה"
+        },
+        {
+            "id": "countryCode3.FRO",
+            "text": "איי פארו"
+        },
+        {
+            "id": "countryCode3.FLK",
+            "text": "איי פוקלנד"
+        },
+        {
+            "id": "countryCode3.FJI",
+            "text": "פיג'י"
+        },
+        {
+            "id": "countryCode3.FIN",
+            "text": "פינלנד"
+        },
+        {
+            "id": "countryCode3.ATF",
+            "text": "אדמות דרום צרפתיות"
+        },
+        {
+            "id": "countryCode3.FRA",
+            "text": "צרפת"
+        },
+        {
+            "id": "countryCode3.PYF",
+            "text": "פולינזיה הצרפתית"
+        },
+        {
+            "id": "countryCode3.GAB",
+            "text": "גבון"
+        },
+        {
+            "id": "countryCode3.GMB",
+            "text": "גמביה"
+        },
+        {
+            "id": "countryCode3.GEO",
+            "text": "ג'ורג'יה"
+        },
+        {
+            "id": "countryCode3.DEU",
+            "text": "גרמניה"
+        },
+        {
+            "id": "countryCode3.GHA",
+            "text": "גאנה"
+        },
+        {
+            "id": "countryCode3.GRC",
+            "text": "יון"
+        },
+        {
+            "id": "countryCode3.GRL",
+            "text": "גרינלנד"
+        },
+        {
+            "id": "countryCode3.GRD",
+            "text": "גרנדה"
+        },
+        {
+            "id": "countryCode3.GUM",
+            "text": "גואם"
+        },
+        {
+            "id": "countryCode3.GTM",
+            "text": "גואטמלה"
+        },
+        {
+            "id": "countryCode3.GGY",
+            "text": "גרנזי"
+        },
+        {
+            "id": "countryCode3.GIN",
+            "text": "גינאה"
+        },
+        {
+            "id": "countryCode3.GNB",
+            "text": "גינאה-ביסאו"
+        },
+        {
+            "id": "countryCode3.GUY",
+            "text": "גיאנה"
+        },
+        {
+            "id": "countryCode3.HMD",
+            "text": "איי שמע ומקדונלד"
+        },
+        {
+            "id": "countryCode3.HTI",
+            "text": "האיטי"
+        },
+        {
+            "id": "countryCode3.HND",
+            "text": "הונדורס"
+        },
+        {
+            "id": "countryCode3.HKG",
+            "text": "הונג קונג"
+        },
+        {
+            "id": "countryCode3.HUN",
+            "text": "הונגריה"
+        },
+        {
+            "id": "countryCode3.IOT",
+            "text": "שטח האוקיאנוס ההודי הבריטי"
+        },
+        {
+            "id": "countryCode3.ISL",
+            "text": "איסלנד"
+        },
+        {
+            "id": "countryCode3.IND",
+            "text": "הודו"
+        },
+        {
+            "id": "countryCode3.IOA",
+            "text": "שטחי האוקיאנוס ההודי"
+        },
+        {
+            "id": "countryCode3.IDN",
+            "text": "אינדונזיה"
+        },
+        {
+            "id": "countryCode3.IRN",
+            "text": "איראן"
+        },
+        {
+            "id": "countryCode3.IRQ",
+            "text": "עיראק"
+        },
+        {
+            "id": "countryCode3.IRL",
+            "text": "אירלנד"
+        },
+        {
+            "id": "countryCode3.IMN",
+            "text": "האי מאן"
+        },
+        {
+            "id": "countryCode3.ISR",
+            "text": "ישראל"
+        },
+        {
+            "id": "countryCode3.ITA",
+            "text": "איטליה"
+        },
+        {
+            "id": "countryCode3.JAM",
+            "text": "ג'מייקה"
+        },
+        {
+            "id": "countryCode3.JPN",
+            "text": "יפן"
+        },
+        {
+            "id": "countryCode3.JEY",
+            "text": "ג'רזי"
+        },
+        {
+            "id": "countryCode3.JOR",
+            "text": "ירדן"
+        },
+        {
+            "id": "countryCode3.KAS",
+            "text": "קשמיר"
+        },
+        {
+            "id": "countryCode3.KAZ",
+            "text": "קזחסטן"
+        },
+        {
+            "id": "countryCode3.KEN",
+            "text": "קניה"
+        },
+        {
+            "id": "countryCode3.KIR",
+            "text": "קיריבטי"
+        },
+        {
+            "id": "countryCode3.KOS",
+            "text": "קוסובו"
+        },
+        {
+            "id": "countryCode3.KWT",
+            "text": "כווית"
+        },
+        {
+            "id": "countryCode3.KGZ",
+            "text": "קירגיזסטן"
+        },
+        {
+            "id": "countryCode3.LAO",
+            "text": "לאוס"
+        },
+        {
+            "id": "countryCode3.LVA",
+            "text": "לטביה"
+        },
+        {
+            "id": "countryCode3.LBN",
+            "text": "לבנון"
+        },
+        {
+            "id": "countryCode3.LSO",
+            "text": "לסוטו"
+        },
+        {
+            "id": "countryCode3.LBR",
+            "text": "ליבריה"
+        },
+        {
+            "id": "countryCode3.LBY",
+            "text": "לוב"
+        },
+        {
+            "id": "countryCode3.LIE",
+            "text": "ליכטנשטיין"
+        },
+        {
+            "id": "countryCode3.LTU",
+            "text": "ליטא"
+        },
+        {
+            "id": "countryCode3.LUX",
+            "text": "לוקסמבורג"
+        },
+        {
+            "id": "countryCode3.MAC",
+            "text": "מקאו"
+        },
+        {
+            "id": "countryCode3.MKD",
+            "text": "מוקדון"
+        },
+        {
+            "id": "countryCode3.MDG",
+            "text": "מדגסקר"
+        },
+        {
+            "id": "countryCode3.MWI",
+            "text": "מלאווי"
+        },
+        {
+            "id": "countryCode3.MYS",
+            "text": "מלזיה"
+        },
+        {
+            "id": "countryCode3.MDV",
+            "text": "המלדיביים"
+        },
+        {
+            "id": "countryCode3.MLI",
+            "text": "מלי"
+        },
+        {
+            "id": "countryCode3.MLT",
+            "text": "מלטה"
+        },
+        {
+            "id": "countryCode3.MHL",
+            "text": "איי מרשל"
+        },
+        {
+            "id": "countryCode3.MRT",
+            "text": "מאוריטניה"
+        },
+        {
+            "id": "countryCode3.MUS",
+            "text": "מאוריציוס"
+        },
+        {
+            "id": "countryCode3.MEX",
+            "text": "מקסיקו"
+        },
+        {
+            "id": "countryCode3.FSM",
+            "text": "מיקרונזיה"
+        },
+        {
+            "id": "countryCode3.MDA",
+            "text": "מולדובה"
+        },
+        {
+            "id": "countryCode3.MCO",
+            "text": "מונקו"
+        },
+        {
+            "id": "countryCode3.MNG",
+            "text": "מונגוליה"
+        },
+        {
+            "id": "countryCode3.MNE",
+            "text": "מונטנגרו"
+        },
+        {
+            "id": "countryCode3.MSR",
+            "text": "מונטסראט"
+        },
+        {
+            "id": "countryCode3.MAR",
+            "text": "מרוקו"
+        },
+        {
+            "id": "countryCode3.MOZ",
+            "text": "מוזמביק"
+        },
+        {
+            "id": "countryCode3.MMR",
+            "text": "מיאנמר"
+        },
+        {
+            "id": "countryCode3.MNP",
+            "text": "איי צפון מריאנה"
+        },
+        {
+            "id": "countryCode3.NAM",
+            "text": "נמיביה"
+        },
+        {
+            "id": "countryCode3.NRU",
+            "text": "נאורו"
+        },
+        {
+            "id": "countryCode3.NPL",
+            "text": "נפאל"
+        },
+        {
+            "id": "countryCode3.NLD",
+            "text": "הולנד"
+        },
+        {
+            "id": "countryCode3.NCL",
+            "text": "קלדוניה החדשה"
+        },
+        {
+            "id": "countryCode3.NZL",
+            "text": "ניו זילנד"
+        },
+        {
+            "id": "countryCode3.NIC",
+            "text": "ניקרגואה"
+        },
+        {
+            "id": "countryCode3.NER",
+            "text": "ניז'ר"
+        },
+        {
+            "id": "countryCode3.NGA",
+            "text": "ניגריה"
+        },
+        {
+            "id": "countryCode3.NIU",
+            "text": "Niue"
+        },
+        {
+            "id": "countryCode3.NFK",
+            "text": "האי נורפולק"
+        },
+        {
+            "id": "countryCode3.PRK",
+            "text": "צפון קוריאה"
+        },
+        {
+            "id": "countryCode3.CYN",
+            "text": "צפון קפריסין"
+        },
+        {
+            "id": "countryCode3.NOR",
+            "text": "נורווגיה"
+        },
+        {
+            "id": "countryCode3.OMN",
+            "text": "עומאן"
+        },
+        {
+            "id": "countryCode3.PAK",
+            "text": "פקיסטן"
+        },
+        {
+            "id": "countryCode3.PLW",
+            "text": "פאלאו"
+        },
+        {
+            "id": "countryCode3.PSX",
+            "text": "פלשתינה"
+        },
+        {
+            "id": "countryCode3.PAN",
+            "text": "פנמה"
+        },
+        {
+            "id": "countryCode3.PNG",
+            "text": "פפואה גינאה החדשה"
+        },
+        {
+            "id": "countryCode3.PRY",
+            "text": "פרגוואי"
+        },
+        {
+            "id": "countryCode3.PER",
+            "text": "פרו"
+        },
+        {
+            "id": "countryCode3.PHL",
+            "text": "הפיליפינים"
+        },
+        {
+            "id": "countryCode3.PCN",
+            "text": "איי פיטקרן"
+        },
+        {
+            "id": "countryCode3.POL",
+            "text": "פולין"
+        },
+        {
+            "id": "countryCode3.PRT",
+            "text": "פורטוגל"
+        },
+        {
+            "id": "countryCode3.PRI",
+            "text": "פוארטו ריקו"
+        },
+        {
+            "id": "countryCode3.QAT",
+            "text": "קטאר"
+        },
+        {
+            "id": "countryCode3.ROU",
+            "text": "רומניה"
+        },
+        {
+            "id": "countryCode3.RUS",
+            "text": "רוסיה"
+        },
+        {
+            "id": "countryCode3.RWA",
+            "text": "רואנדה"
+        },
+        {
+            "id": "countryCode3.SGS",
+            "text": "איי דרום ג'ורג'יה וסנדוויץ '"
+        },
+        {
+            "id": "countryCode3.STP",
+            "text": "סאו טומה ופריינצ'יפה"
+        },
+        {
+            "id": "countryCode3.SHN",
+            "text": "סנט הלנה"
+        },
+        {
+            "id": "countryCode3.LCA",
+            "text": "סנט לוסיה"
+        },
+        {
+            "id": "countryCode3.WSM",
+            "text": "סמואה"
+        },
+        {
+            "id": "countryCode3.SMR",
+            "text": "סן מרינו"
+        },
+        {
+            "id": "countryCode3.SAU",
+            "text": "ערב הסעודית"
+        },
+        {
+            "id": "countryCode3.SEN",
+            "text": "סנגל"
+        },
+        {
+            "id": "countryCode3.SRB",
+            "text": "סרביה"
+        },
+        {
+            "id": "countryCode3.SYC",
+            "text": "סיישל"
+        },
+        {
+            "id": "countryCode3.SLE",
+            "text": "סיירה לאונה"
+        },
+        {
+            "id": "countryCode3.SGP",
+            "text": "סינגפור"
+        },
+        {
+            "id": "countryCode3.SXM",
+            "text": "סינט מרטן"
+        },
+        {
+            "id": "countryCode3.SVK",
+            "text": "סלובקיה"
+        },
+        {
+            "id": "countryCode3.SVN",
+            "text": "סלובניה"
+        },
+        {
+            "id": "countryCode3.SLB",
+            "text": "איי שלמה"
+        },
+        {
+            "id": "countryCode3.SOM",
+            "text": "סומליה"
+        },
+        {
+            "id": "countryCode3.SOL",
+            "text": "סומלילנד"
+        },
+        {
+            "id": "countryCode3.ZAF",
+            "text": "דרום אפריקה"
+        },
+        {
+            "id": "countryCode3.KOR",
+            "text": "דרום קוריאה"
+        },
+        {
+            "id": "countryCode3.SSD",
+            "text": "דרום סודן"
+        },
+        {
+            "id": "countryCode3.ESP",
+            "text": "ספרד"
+        },
+        {
+            "id": "countryCode3.LKA",
+            "text": "סרי לנקה"
+        },
+        {
+            "id": "countryCode3.SPM",
+            "text": "סנט פייר ומיקלון"
+        },
+        {
+            "id": "countryCode3.VCT",
+            "text": "סנט וינסנט וגרנדינים"
+        },
+        {
+            "id": "countryCode3.KNA",
+            "text": "סנט קיטס ונביס"
+        },
+        {
+            "id": "countryCode3.BLM",
+            "text": "סנט-ברתלמי"
+        },
+        {
+            "id": "countryCode3.MAF",
+            "text": "סנט-מרטין"
+        },
+        {
+            "id": "countryCode3.SDN",
+            "text": "סודן"
+        },
+        {
+            "id": "countryCode3.SUR",
+            "text": "סורינאם"
+        },
+        {
+            "id": "countryCode3.SWE",
+            "text": "שוודיה"
+        },
+        {
+            "id": "countryCode3.CHE",
+            "text": "שוויץ"
+        },
+        {
+            "id": "countryCode3.SYR",
+            "text": "סוריה"
+        },
+        {
+            "id": "countryCode3.TCA",
+            "text": "איי טורקים וקייקוס"
+        },
+        {
+            "id": "countryCode3.TWN",
+            "text": "טייוואן"
+        },
+        {
+            "id": "countryCode3.TJK",
+            "text": "טג'יקיסטן"
+        },
+        {
+            "id": "countryCode3.TZA",
+            "text": "טנזניה"
+        },
+        {
+            "id": "countryCode3.THA",
+            "text": "תאילנד"
+        },
+        {
+            "id": "countryCode3.TLS",
+            "text": "מזרח טימור"
+        },
+        {
+            "id": "countryCode3.TGO",
+            "text": "ללכת"
+        },
+        {
+            "id": "countryCode3.TON",
+            "text": "טונגה"
+        },
+        {
+            "id": "countryCode3.TTO",
+            "text": "טרינידד וטובגו"
+        },
+        {
+            "id": "countryCode3.TUN",
+            "text": "תוניסיה"
+        },
+        {
+            "id": "countryCode3.TUR",
+            "text": "טורקיה"
+        },
+        {
+            "id": "countryCode3.TKM",
+            "text": "טורקמניסטן"
+        },
+        {
+            "id": "countryCode3.ARE",
+            "text": "איחוד האמירויות הערביות"
+        },
+        {
+            "id": "countryCode3.VIR",
+            "text": "איי הבתולה האמריקניים"
+        },
+        {
+            "id": "countryCode3.UGA",
+            "text": "אוגנדה"
+        },
+        {
+            "id": "countryCode3.UKR",
+            "text": "אוקראינה"
+        },
+        {
+            "id": "countryCode3.GBR",
+            "text": "הממלכה המאוחדת"
+        },
+        {
+            "id": "countryCode3.USA",
+            "text": "ארצות הברית"
+        },
+        {
+            "id": "countryCode3.URY",
+            "text": "אורוגוואי"
+        },
+        {
+            "id": "countryCode3.UZB",
+            "text": "אוזבקיסטן"
+        },
+        {
+            "id": "countryCode3.VUT",
+            "text": "ונואטו"
+        },
+        {
+            "id": "countryCode3.VAT",
+            "text": "הווטיקן"
+        },
+        {
+            "id": "countryCode3.VEN",
+            "text": "ונצואלה"
+        },
+        {
+            "id": "countryCode3.VNM",
+            "text": "וייטנאם"
+        },
+        {
+            "id": "countryCode3.WLF",
+            "text": "וואליס ופוטונה"
+        },
+        {
+            "id": "countryCode3.SAH",
+            "text": "סהרה המערבית"
+        },
+        {
+            "id": "countryCode3.YEM",
+            "text": "תימן"
+        },
+        {
+            "id": "countryCode3.ZMB",
+            "text": "זמביה"
+        },
+        {
+            "id": "countryCode3.ZWE",
+            "text": "זימבבואה"
+        }
+    ]
+}

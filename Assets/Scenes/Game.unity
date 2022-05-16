@@ -17477,6 +17477,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 104d52408f5e2e94b9ed40b41c39aaca, type: 2}
   - {fileID: 11400000, guid: d5ddfc112497af245957b38a461fac69, type: 2}
   - {fileID: 11400000, guid: e6ef73e5262dc7c42b3bbfb784759555, type: 2}
+  - {fileID: 11400000, guid: e541b960490aa1143a06045836ffd243, type: 2}
   defaultLanguage: {fileID: 11400000, guid: 3bc09c4c266b22b43a56170325b187ab, type: 2}
 --- !u!4 &1568930012
 Transform:

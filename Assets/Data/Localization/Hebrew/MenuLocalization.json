@@ -1,0 +1,180 @@
+{
+    "entries": [
+        {
+            "id": "mainMenu.subtitle",
+            "text": "(בבניה)"
+        },
+        {
+            "id": "mainMenu.playButton",
+            "text": "התחל"
+        },
+        {
+            "id": "mainMenu.manualButton",
+            "text": "מדריך"
+        },
+        {
+            "id": "mainMenu.settingsButton",
+            "text": "הגדרות"
+        },
+        {
+            "id": "mainMenu.creditsButton",
+            "text": "קרדיט"
+        },
+        {
+            "id": "mainMenu.quitButton",
+            "text": "יציאה"
+        },
+        {
+            "id": "subMenu.closeButton",
+            "text": "סגור"
+        },
+        {
+            "id": "settingsMenu.graphicsTab",
+            "text": "גרפיקה"
+        },
+        {
+            "id": "settingsMenu.audioAndLanguageTab",
+            "text": "שמע / שפה"
+        },
+        {
+            "id": "settingsMenu.controlsTab",
+            "text": "שליטה"
+        },
+        {
+            "id": "settingsMenu.graphics.aspectRatio",
+            "text": "יחס תצוגה"
+        },
+        {
+            "id": "settingsMenu.graphics.resolution",
+            "text": "רזוליציה"
+        },
+        {
+            "id": "settingsMenu.graphics.fullScreen",
+            "text": "מסך מלא"
+        },
+        {
+            "id": "settingsMenu.graphics.vSync",
+            "text": "VSync"
+        },
+        {
+            "id": "settingsMenu.graphics.terrainQuality",
+            "text": "איכות קרקע"
+        },
+        {
+            "id": "settingsMenu.graphics.shadowQuality",
+            "text": "איכות צללים"
+        },
+        {
+            "id": "settingsMenu.audioAndLanguage.language",
+            "text": "שפה"
+        },
+        {
+            "id": "settingsMenu.audioAndLanguage.translationNote",
+            "text": "שים לב: התרגומים נעשים על-ידי הקהילה והם עדיין בבניה."
+        },
+        {
+            "id": "settingsMenu.audioAndLanguage.masterVolume",
+            "text": "עוצמת שמע כללית"
+        },
+        {
+            "id": "settingsMenu.audioAndLanguage.musicVolume",
+            "text": "עוצמת מוזיקה"
+        },
+        {
+            "id": "settingsMenu.audioAndLanguage.sfxVolume",
+            "text": "עוצמת צלילים"
+        },
+        {
+            "id": "settingsMenu.controls.resetButton",
+            "text": "איפוס"
+        },
+        {
+            "id": "settingsMenu.controls.playerControls",
+            "text": "שליטה במטוס"
+        },
+        {
+            "id": "settingsMenu.controls.turn",
+            "text": "פניה"
+        },
+        {
+            "id": "settingsMenu.controls.elevation",
+            "text": "גובה"
+        },
+        {
+            "id": "settingsMenu.controls.speed",
+            "text": "מהירות"
+        },
+        {
+            "id": "settingsMenu.controls.boost",
+            "text": "ספרינט"
+        },
+        {
+            "id": "settingsMenu.controls.dropPackage",
+            "text": "שחרור חבילה"
+        },
+        {
+            "id": "settingsMenu.controls.cameraControls",
+            "text": "שליטה במצלמה"
+        },
+        {
+            "id": "settingsMenu.controls.forwardView",
+            "text": "מבט קדימה"
+        },
+        {
+            "id": "settingsMenu.controls.behindView",
+            "text": "מבט אחורה"
+        },
+        {
+            "id": "settingsMenu.controls.topView",
+            "text": "מבט מלמעלה"
+        },
+        {
+            "id": "settingsMenu.controls.extraControls",
+            "text": "הגדרות שליטה נוספות"
+        },
+        {
+            "id": "settingsMenu.controls.makeDayTime",
+            "text": "הרצה ליום"
+        },
+        {
+            "id": "settingsMenu.controls.makeNightTime",
+            "text": "הרצה ללילה"
+        },
+        {
+            "id": "settingsMenu.controls.uiControls",
+            "text": "שליטה בממשק"
+        },
+        {
+            "id": "settingsMenu.controls.toggleMap",
+            "text": "מפה"
+        },
+        {
+            "id": "settingsMenu.controls.togglePause",
+            "text": "הפסק"
+        },
+        {
+            "id": "settingsMenu.applyButton",
+            "text": "אישור"
+        },
+        {
+            "id": "settingsMenu.exitNote",
+            "text": "שים לב: יציאה ללא אישור תבטל את השינויים שנעשו."
+        },
+        {
+            "id": "pauseMenu.pausedTitle",
+            "text": "מופסק"
+        },
+        {
+            "id": "pauseMenu.resumeButton",
+            "text": "המשך"
+        },
+        {
+            "id": "pauseMenu.statsButton",
+            "text": "סטטיסטיקות"
+        },
+        {
+            "id": "pauseMenu.quitButton",
+            "text": "יציאה"
+        }
+    ]
+}

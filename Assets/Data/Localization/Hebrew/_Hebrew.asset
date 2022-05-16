@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c11dd3d25848ea45b8432cae9e718ce, type: 3}
+  m_Name: _Hebrew
+  m_EditorClassIdentifier: 
+  languageDisplayName: Hebrew
+  languageID: hebrew
+  rightToLeftWritingSystem: 1
+  localizedStringGroups:
+  - {fileID: 4900000, guid: ee38e11a23dc7ea4ba0a4c9811185cd7, type: 3}
+  - {fileID: 4900000, guid: 6c614bafd4d62c44f816c63dfd111532, type: 3}
+  localizedTextChunks:
+  - id: mainMenu.manualText
+    file: {fileID: 4900000, guid: 150289d4ad457ad4faa52daa21582aa2, type: 3}
